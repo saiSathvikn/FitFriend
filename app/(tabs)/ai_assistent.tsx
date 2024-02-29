@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const index = () => {
+const ai_assistent = () => {
   return (
     <View>
-      <Text>index</Text>
+      <Text>ai_assistent</Text>
     </View>
   )
 }
 
-export default index
+export default ai_assistent
