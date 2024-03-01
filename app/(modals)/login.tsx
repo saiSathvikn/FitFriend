@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const ai_assistent = () => {
+const Page = () => {
   return (
     <View>
-      <Text>ai_assistent</Text>
+      <Text>Login</Text>
     </View>
   )
 }
 
-export default ai_assistent
+export default Page
